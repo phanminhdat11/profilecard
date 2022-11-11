@@ -10,8 +10,7 @@
 }
 body{
     height: 100vh;
-    /* background: linear-gradient(45deg, #2273ed, #ef2871); */
-    background-image: url("/Users/macos/Documents/HTML__CSS/profilecard/profilecard/IMG_7586 2.jpg");
+    background: linear-gradient(45deg, #2273ed, #ef2871);
     display: flex;
     justify-content: center;
     align-items: center;
