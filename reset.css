@@ -19,9 +19,9 @@ body{
 
 }
 .card{
-    width: 300px;
+    width: 350px;
     background:rgba(0, 0, 0, 0.87);
-    height: 400px;
+    height: 450px;
     border-radius: 15px;
     text-align: center;
     overflow: hidden;
@@ -35,17 +35,16 @@ img{
 
 }
 .card h2{
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .card_img{
     width: 120px;
     height: 120px;
     border: 4px solid var(--primary-color) ;
-
     border-radius: 50%;
     overflow: hidden;
     margin: 0 auto;
-    transform: translateY(25px);
+    transform: translateY(35px);
     transition: 0.5s;
 
 }
@@ -60,13 +59,16 @@ img{
 .mxh {
     margin: 25px 0;
     height: 50px;
-    font-size: 40px;
+   
+}
+.mxh a{
+    font-size: 25px;
 }
 .mxh a.facebook{
     color: white;
     margin: 25px 20px;
     text-decoration: none;
-    font-size: 40px;
+    
    
 
    
@@ -77,11 +79,12 @@ img{
     color: rgb(53, 119, 249);
     
 }
+
 .mxh a.instagram{
     color: white;
     margin: 25px 20px;
     text-decoration: none;
-    font-size: 40px;
+  
    
 
 }
@@ -94,9 +97,7 @@ img{
     color: white;
     margin: 25px 20px;
     text-decoration: none;
-   
-    font-size: 40px;
-    
+  
 
 }
 .mxh a.github:hover{
@@ -145,7 +146,7 @@ img{
     background: #1d99ca;
 }
 .iner_body{
-    padding: 15px;
+    padding: 10px;
     color: black;
 }
 .iner_footer{
