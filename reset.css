@@ -20,7 +20,7 @@ body{
 }
 .card{
     width: 300px;
-    background:rgb(42 120 160 / 87%);
+    background:rgba(0, 0, 0, 0.87);
     height: 400px;
     border-radius: 15px;
     text-align: center;
